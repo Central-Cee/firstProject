@@ -1,4 +1,5 @@
 this is written the GIT BASH command promp
 this is written after in it command and so
 this is added after the log command
+this was updated on 19/09/2022
 
